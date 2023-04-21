@@ -1,4 +1,4 @@
-FROM node:10
+FROM node:14
 
 LABEL version="1.0.0"
 LABEL repository="https://github.com/alexlafroscia/actions-ember-testing"
